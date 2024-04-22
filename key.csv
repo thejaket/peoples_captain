@@ -1,0 +1,33 @@
+variable,description
+prof,Profession assigned to the candidate profile. See main text for description of possible levels.
+race,Race assigned to the candidate profile. See main text for description of possible levels.
+sex,Sex assigned to the candidate profile. See main text for description of possible levels.
+slogan,Campaign slogan assigned to the candidate profile. See main text for description of possible levels.
+politician,Incumbency status assigned to the candidate profile. See main text for description of possible levels.
+econ,Economic policy signal assigned to the candidate profile. See main text for description of possible levels.
+name,Name assigned to the candidate profile. See main text for description of possible levels.
+style,Santinho design assigned to candidate profile. See Appendix for examples.
+deck,Model set candidate photo drawn from. See Appendix for representative photographs.
+crime,Public security policy signal assigned to the candidate profile. See main text for description of possible levels.
+image,Indicator if respondent received image or text-based stimulus. Text-based respondents excluded from analysis.
+binchoice,Binary vote choice outcome.
+choice,Continuous vote choice outcome.
+binideology,"Binary ""right wing"" outcome."
+ideology,Continuous ideology outcome.
+bindem,"Binary ""respects democracy"" outcome."
+seguranca,Binary security competency outcome.
+corruption,Binary corruption competency outcome.
+employ,Binary employment competency outcome.
+saude,Binary healthcare competency outcome.
+education,Binary education competency outcome.
+other,"Average of the non-security binary policy competency outcomes (healthcare, employment, education)."
+leader,Binary leadership strength outcome.
+law,"Binary ""rule of law"" outcome."
+candlabel,Qualtrics candidate label
+id,Respondent unique id
+respideo,"Respondent ideology, 7 point scale"
+estado,Respondent state
+open_choice,Open-ended explanation of vote choice outcome
+open_lider,Open-ended explanation of leadership outcome
+open_democracy,Open-ended explanation of democracy outcome
+resp3,"Respondent ideology, ""left"", ""right"", ""center"""
